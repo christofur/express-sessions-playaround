@@ -1,0 +1,9 @@
+{
+  "name": "session-playaround",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
