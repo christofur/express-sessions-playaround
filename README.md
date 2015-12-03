@@ -18,3 +18,8 @@ Playing around with sessions in a simple web app.
 gulp
 
 Runs on localhost:3000
+
+
+### Next steps
+
+Sessions are stored in memory which means this won't work in production. There are other session stores we can use, including Redis and MongoDB. See here: https://github.com/expressjs/session#compatible-session-stores
